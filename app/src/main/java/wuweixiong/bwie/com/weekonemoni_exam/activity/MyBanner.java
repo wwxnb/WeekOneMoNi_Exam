@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam;
+package wuweixiong.bwie.com.weekonemoni_exam.activity;
 
 import android.content.Context;
 import android.os.Handler;
@@ -17,6 +17,8 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import wuweixiong.bwie.com.weekonemoni_exam.R;
 
 /**
  * 自定义控件

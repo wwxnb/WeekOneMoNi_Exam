@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam;
+package wuweixiong.bwie.com.weekonemoni_exam.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -14,6 +14,10 @@ import java.util.List;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.Response;
+import wuweixiong.bwie.com.weekonemoni_exam.util.OkHttp3Util;
+import wuweixiong.bwie.com.weekonemoni_exam.R;
+import wuweixiong.bwie.com.weekonemoni_exam.WebActivity;
+import wuweixiong.bwie.com.weekonemoni_exam.bean.DataDataBean;
 
 public class MainActivity extends AppCompatActivity {
 
