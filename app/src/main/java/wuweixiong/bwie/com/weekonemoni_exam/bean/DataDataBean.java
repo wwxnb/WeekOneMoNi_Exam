@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam;
+package wuweixiong.bwie.com.weekonemoni_exam.bean;
 
 import java.util.List;
 
