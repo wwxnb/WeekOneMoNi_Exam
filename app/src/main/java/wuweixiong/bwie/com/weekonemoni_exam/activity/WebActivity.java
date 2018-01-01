@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam;
+package wuweixiong.bwie.com.weekonemoni_exam.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+
+import wuweixiong.bwie.com.weekonemoni_exam.R;
 
 public class WebActivity extends AppCompatActivity {
 

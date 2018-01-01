@@ -16,8 +16,8 @@ import okhttp3.Callback;
 import okhttp3.Response;
 import wuweixiong.bwie.com.weekonemoni_exam.util.OkHttp3Util;
 import wuweixiong.bwie.com.weekonemoni_exam.R;
-import wuweixiong.bwie.com.weekonemoni_exam.WebActivity;
 import wuweixiong.bwie.com.weekonemoni_exam.bean.DataDataBean;
+import wuweixiong.bwie.com.weekonemoni_exam.view.MyBanner;
 
 public class MainActivity extends AppCompatActivity {
 

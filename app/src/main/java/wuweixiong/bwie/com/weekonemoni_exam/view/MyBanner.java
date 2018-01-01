@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam.activity;
+package wuweixiong.bwie.com.weekonemoni_exam.view;
 
 import android.content.Context;
 import android.os.Handler;
