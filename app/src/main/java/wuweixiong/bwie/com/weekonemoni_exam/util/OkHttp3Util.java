@@ -1,4 +1,4 @@
-package wuweixiong.bwie.com.weekonemoni_exam;
+package wuweixiong.bwie.com.weekonemoni_exam.util;
 
 import android.app.Activity;
 import android.content.Intent;
