@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="wuweixiong.bwie.com.weekonemoni_exam.MainActivity">
+    tools:context="wuweixiong.bwie.com.weekonemoni_exam.activity.MainActivity">
 
-    <wuweixiong.bwie.com.weekonemoni_exam.MyBanner
+    <wuweixiong.bwie.com.weekonemoni_exam.view.MyBanner
         android:id="@+id/myBanner"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"></wuweixiong.bwie.com.weekonemoni_exam.MyBanner>
+        android:layout_height="wrap_content"></wuweixiong.bwie.com.weekonemoni_exam.view.MyBanner>
 
 </RelativeLayout>
